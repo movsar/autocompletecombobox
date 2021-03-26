@@ -6,6 +6,6 @@ Where ratesAsComboboxOptions is a simple array of values.
 
 &copy; Movsar Bekaev
 
-Some ideas taken from: https://github.com/enreeco/salesforce-lwc-autocomplete-datalist
+Some ideas taken from: https://blog.enree.co/2019/04/salesforce-lwc-autocomplete-magic-with-html-datalist.html
 
 Freeware.
